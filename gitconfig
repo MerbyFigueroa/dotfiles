@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fmerby@gmail.com
+	name = Merby Figueroa
